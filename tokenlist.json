@@ -1,0 +1,17 @@
+{
+  "name": "My Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x90bA749540450eF11F06CF71c739cEAA15C3BB1D",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://www.trustwdu.com/logo/tblogo.png"
+    }
+  ]
+}
